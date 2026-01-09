@@ -1,0 +1,28 @@
+.submenuWrapper {
+  width: 100%;
+}
+
+.submenuHeader {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.arrow {
+  display: flex;
+  align-items: center;
+  transition: transform 0.2s ease;
+}
+
+.arrowRotate {
+  transform: rotate(180deg);
+}
+
+.submenuContent {
+  padding-left: 15px;
+  background-color: #fff;
+  border-left: 2px solid #f0f0f0;
+  margin-left: 20px;
+}

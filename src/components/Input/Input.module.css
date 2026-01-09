@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.input {
+  width: 100%;
+  padding: 10px 12px;
+  padding-right: 55px;
+  border-radius: 8px;
+  outline: none;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  transition: border-color 1s ease-in-out;
+}
+/* Hide arrows in Chrome, Safari, Edge, and Opera */
+.input::-webkit-outer-spin-button,
+.input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Hide arrows in Firefox */
+.input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+.input:is(:focus, :hover) {
+  border-color: #000;
+}
+.btnGroup {
+  position: absolute;
+  right: 8px;
+  display: flex;
+  gap: 2px;
+  align-items: center;
+}
+.iconBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
