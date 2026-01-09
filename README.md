@@ -59,21 +59,21 @@ A slide-in navigation menu with support for nested items.
 
 ### Input Component
 
-| Input Default                                  | Password Hidden Clearable                                  | Password Visible Clearable                                |
-| ---------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
-| ![Text Input](./screenshots/input-default.png) | ![Password Hidden](./screenshots/input-pswd-clearable.png) | ![Password Visible](./screenshots/input-pswd-visible.png) |
+| Input Default                                         | Password Hidden Clearable                                         | Password Visible Clearable                                       |
+| ----------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![Text Input](./public/screenshots/input-default.png) | ![Password Hidden](./public/screenshots/input-pswd-clearable.png) | ![Password Visible](./public/screenshots/input-pswd-visible.png) |
 
 ### Toast Component
 
-| Success State                                     | Error State                                   |
-| ------------------------------------------------- | --------------------------------------------- |
-| ![Success Toast](./screenshots/toast-success.png) | ![Error Toast](./screenshots/toast-error.png) |
+| Success State                                            | Error State                                          |
+| -------------------------------------------------------- | ---------------------------------------------------- |
+| ![Success Toast](./public/screenshots/toast-success.png) | ![Error Toast](./public/screenshots/toast-error.png) |
 
 ### Sidebar Menu
 
-| Closed State                                            | Open (Nested) State                               |
-| ------------------------------------------------------- | ------------------------------------------------- |
-| ![Sidebar Opened Nestes](./screenshots/menu-nested.png) | ![Sidebar Open Left](./screenshots/menu-left.png) |
+| Closed State                                                   | Open (Nested) State                                      |
+| -------------------------------------------------------------- | -------------------------------------------------------- |
+| ![Sidebar Opened Nestes](./public/screenshots/menu-nested.png) | ![Sidebar Open Left](./public/screenshots/menu-left.png) |
 
 ## Project Structure
 
