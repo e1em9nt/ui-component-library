@@ -55,7 +55,7 @@ A slide-in navigation menu with support for nested items.
 
 ### Storybook Overview
 
-![Storybook Dashboard](./screenshots/storybook-ui.png)
+![Storybook Dashboard](./public/screenshots/storybook-ui.png)
 
 ### Input Component
 
